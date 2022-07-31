@@ -1,0 +1,81 @@
+.mobile {
+    background: #F2EAE2;
+    padding: 28px 16px 28px 16px;
+    width: 343px;
+    /* height: 667px; */
+}
+
+.content {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 0px 0px 24px 0px;
+}
+
+.imageMobile {
+    display: inline-block;
+    width: 343px;
+    height: 240px;
+    border-radius: 10px 10px 0px 0;
+}
+.pfm {
+    color: #6C7289;
+    margin: 24px 0 12px 24px;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
+.name {
+    margin: 0px 0px 16px 24px;
+    font-family: 'Fraunces', sans-serif;;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+}
+.dscr {
+    margin: 0px 0px 24px 24px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 23px;
+}
+.prc {
+    display: inline;
+    color: #3D8168;
+    margin: 0px 19px 24px 24.5px;
+    font-family: 'Fraunces', sans-serif;;
+    font-weight: 700;
+    font-size: 32px;
+}
+.prcp {
+    display: inline;
+    position: relative;
+    top: -5.5px; left: 0px;
+    color: #6C7289;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: line-through;
+}
+
+.btn {
+    display: flex;
+    background-color: #3D8168;
+    text-align: center;
+    color: #ffffff;
+    padding: 15px 92px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 23px 0px 25px;
+}
+a {
+    text-decoration: none;
+}
+.cartimg {
+    margin: 0px 11.61px 0px 0px;
+    width: 14.39px;
+    height: 16px;
+    left: 0px;
+    top: 1px;
+
+}
